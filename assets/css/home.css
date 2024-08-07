@@ -1,0 +1,40 @@
+.app_container.home{
+  background: transparent;
+  height: 40vh;
+}
+.app_container.tutorials{
+  background: transparent;
+  height: 40vh;
+}
+.app_container.courses{
+  background: transparent;
+  height: 30vh;
+}
+.app_container.practices{
+  background: transparent;
+  height: 30vh;
+}
+.app_container.models{
+  background: transparent;
+  height: 20vh;
+}
+.app_container.recommended{
+  background: transparent;
+  height: 30vh;
+}
+.app_container.populars{
+  background: transparent;
+  height: 40vh;
+}
+.app_container.continue{
+  background: transparent;
+  height: 30vh;
+}
+.app_container.favorites{
+  background: transparent;
+  height: 40vh;
+}
+.app_container.popular_accounts{
+  background: transparent;
+  height: 20vh;
+}
